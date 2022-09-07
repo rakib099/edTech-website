@@ -1,0 +1,15 @@
+.nav-links {
+    position: absolute;
+    left: 7.2rem;
+}
+
+.carousel-item img {
+    background-image: url(images/cover/cover-1.png);
+    background-size: cover;
+}
+
+@media screen and (max-width: 767px) {
+    .card img {
+        height: 242px;
+        width: 100%;
+}

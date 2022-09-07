@@ -6,15 +6,9 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
-/* navbar */
-/* .nav-links {
-    position: absolute;
-    left: 7.2rem;
-} */
-
 /* carousel */
 .carousel {
-    margin-bottom: 7.5rem;
+    margin-bottom: 7rem;
 }
 .carousel-item::before {
     content:"";
@@ -25,10 +19,7 @@ body {
     right:0;
     background:rgba(0,0,0,0.6);
 }
-/* .carousel-item img {
-    background-image: url(images/cover/cover-1.png);
-    background-size: cover;
-} */
+
 .carousel-caption h1 {
     line-height: 55px;
 }
@@ -103,12 +94,3 @@ footer p > a:hover {
     color: #B9B9B9;
     font-size: 24px;
 }
-
-
-
-/* @media screen and (max-width: 767px) {
-    .card img {
-        height: 242px;
-        width: 100%;
-    }
-} */
