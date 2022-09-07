@@ -33,6 +33,14 @@ body {
     color: #F4F4F4;
 }
 
+/* Accordion */
+.accordion-button:focus {
+    box-shadow: none;
+}
+
+
+
+
 /* @media screen and (max-width: 767px) {
     .card img {
         height: 242px;
