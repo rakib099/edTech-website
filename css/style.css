@@ -38,6 +38,25 @@ body {
     box-shadow: none;
 }
 
+/* Footer */
+footer {
+    height: 350px;
+    background-color: #252424;
+}
+footer p {
+    color: #E8E8E8;
+}
+footer p a {
+    text-decoration: none;
+    color: #E8E8E8
+}
+footer p > a:hover {
+    color: lightgray;
+}
+.fa-brands {
+    color: #B9B9B9;
+    font-size: 24px;
+}
 
 
 
