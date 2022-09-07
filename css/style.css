@@ -39,6 +39,19 @@ body {
 #sec-course {
     margin-bottom: 7rem;
 }
+/* Join Section */
+#sec-join {
+    margin-bottom: 7rem;
+}
+.modal-button {
+    background-color: #ffffff;
+}
+.modal-button:hover {
+    background-color: rgb(255, 255, 255);
+}
+.modal-body p a {
+    text-decoration: none;
+}
 /* FAQ Section */
 #sec-faq {
     margin-bottom: 7.5rem;
