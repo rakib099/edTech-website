@@ -32,3 +32,10 @@ body {
 .carousel-caption p {
     color: #F4F4F4;
 }
+
+/* @media screen and (max-width: 767px) {
+    .card img {
+        height: 242px;
+        width: 100%;
+    }
+} */
