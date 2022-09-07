@@ -13,6 +13,9 @@ body {
 } */
 
 /* carousel */
+.carousel {
+    margin-bottom: 7.5rem;
+}
 .carousel-item::before {
     content:"";
     position:absolute;
@@ -32,10 +35,40 @@ body {
 .carousel-caption p {
     color: #F4F4F4;
 }
-
-/* Accordion */
+/* Courses Section */
+#sec-course {
+    margin-bottom: 7rem;
+}
+/* FAQ Section */
+#sec-faq {
+    margin-bottom: 7.5rem;
+}
 .accordion-button:focus {
     box-shadow: none;
+}
+.accordion-button h5 {
+    color: #615f5f
+}
+
+/* Trusted Section */
+#sec-trusted {
+    margin-bottom: 7.5rem;
+}
+.com-icons img {
+    width: 8.6rem;
+    height: 1.3rem;
+}
+#udemy {
+    width: 8.5rem;
+    height: 2.5rem;
+}
+#fedEx {
+    width: 5.7rem;
+    height: 1.7rem;
+}
+#indeed {
+    width: 6.5rem;
+    height: 1.7rem;
 }
 
 /* Footer */
