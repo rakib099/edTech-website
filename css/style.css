@@ -22,9 +22,10 @@ body {
     right:0;
     background:rgba(0,0,0,0.6);
 }
-.carousel-item { 
-    height:500px;
-}
+/* .carousel-item img {
+    background-image: url(images/cover/cover-1.png);
+    background-size: cover;
+} */
 .carousel-caption h1 {
     line-height: 55px;
 }
