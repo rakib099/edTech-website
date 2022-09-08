@@ -8,7 +8,7 @@ body {
 
 /* carousel */
 .carousel {
-    margin-bottom: 7rem;
+    margin-bottom: 6rem;
 }
 .carousel-item::before {
     content:"";
@@ -40,9 +40,23 @@ body {
 .modal-button:hover {
     background-color: rgb(255, 255, 255);
 }
+.modal-button:focus {
+    box-shadow: none;
+    background-color: #ffffff;
+}
 .modal-body p a {
     text-decoration: none;
 }
+.modal-footer .close-button:hover {
+    background-color: #F4F4F4;
+    color: blue;
+}
+
+/* Success Section */
+#sec-success {
+    margin-bottom: 6rem;
+}
+
 /* FAQ Section */
 #sec-faq {
     margin-bottom: 7.5rem;
