@@ -3,6 +3,8 @@
     left: 7.2rem;
 }
 
+Navbar Register button: <a href="#sec-join" class="btn btn-outline-primary fw-semibold px-4 py-2 d-xl-block d-none">Register</a>
+
 .carousel-item img {
     background-image: url(images/cover/cover-1.png);
     background-size: cover;
